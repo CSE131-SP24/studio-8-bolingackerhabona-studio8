@@ -26,6 +26,12 @@ public class Quiz {
 	}
 	
 	public void takeQuiz() {
+		extends MultipleChoiceQuestion {
+			super (choices); 
+			
+		}
+				su//FIXME
+				this.choices = choices;
 		//FIXME
 	}
 	
